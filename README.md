@@ -1,3 +1,4 @@
+do you think is good proifle in git hub and also graph activiy not working 
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
 
 <h1 align="center">Hi 👋, I'm Abderrezzak Maireche</h1>
@@ -20,12 +21,6 @@
 - 💻 Developing **Full-Stack MERN & AI-powered applications**  
 - 📊 Exploring **Machine Learning, Deep Learning, and NLP**  
 - 🤝 Helping students & developers learn **Web Development & AI**  
-
----
-
-## 🚀 Projects  
-- **[AI Chatbot](https://github.com/abderrezzakmrch/ai-chatbot)**: A conversational AI chatbot built with Python and TensorFlow.  
-- **[E-Commerce App](https://github.com/abderrezzakmrch/ecommerce-app)**: A full-stack MERN e-commerce platform.  
 
 ---
 
@@ -71,12 +66,7 @@
 ---
 
 ## 📈 Contribution Activity  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abderrezzakmrch&theme=radical)
-
----
-
-## 🌟 Fun Fact  
-I once built a Flutter app in 48 hours during a hackathon!  
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abderrezzakmrch&theme=radical)
 
 ---
 

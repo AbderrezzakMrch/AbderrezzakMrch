@@ -23,6 +23,12 @@
 
 ---
 
+## 🚀 Projects  
+- **[AI Chatbot](https://github.com/abderrezzakmrch/ai-chatbot)**: A conversational AI chatbot built with Python and TensorFlow.  
+- **[E-Commerce App](https://github.com/abderrezzakmrch/ecommerce-app)**: A full-stack MERN e-commerce platform.  
+
+---
+
 ## 💼 Coding Services (Freelancing)  
 💡 Need a professional website, web app, or AI solution?  
 🔹 **Custom Web Development (MERN, React, Node.js, Express, MongoDB)**  
@@ -65,7 +71,12 @@
 ---
 
 ## 📈 Contribution Activity  
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=abderrezzakmrch&theme=radical)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abderrezzakmrch&theme=radical)
+
+---
+
+## 🌟 Fun Fact  
+I once built a Flutter app in 48 hours during a hackathon!  
 
 ---
 

@@ -27,7 +27,7 @@
 💡 Need a professional website, web app, or AI solution?  
 🔹 **Custom Web Development (MERN, React, Node.js, Express, MongoDB)**  
 🔹 **AI & Data Science Applications (Python, TensorFlow, NLP, ML)**  
-🔹 **Mobile App Development (Flutter, Dart)**  
+🔹 **Mobile App Development (React Native)**  
 
 📩 Contact me via **[LinkedIn](https://linkedin.com/in/abderrezzak-maireche)** or email!
 
